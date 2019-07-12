@@ -5,7 +5,7 @@ The script is simply run by invoking
 node post.js
 ```
 
-You can also invoke the script using the following php code:
+You can also the script using the following php code:
 
 ```
 <?php
